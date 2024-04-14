@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Yusuf
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning working at PT. Transindo Data Perkasa
+- 🌱 I’m currently working at PT. Transindo Data Perkasa
 - 💞️ I’m looking to collaborate on web development related
 - 📫 How to reach me [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/muh-yusuf99)
 
